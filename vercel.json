@@ -1,0 +1,14 @@
+{
+  "redirects": [
+    {
+      "source": "/NM7-TV.apk",
+      "destination": "https://github.com/cnktvpc/nm7-download/releases/download/latest/NM7-TV.apk",
+      "permanent": false
+    },
+    {
+      "source": "/NM7-Mobile.apk",
+      "destination": "https://github.com/cnktvpc/nm7-download/releases/download/latest/NM7-Mobile.apk",
+      "permanent": false
+    }
+  ]
+}
